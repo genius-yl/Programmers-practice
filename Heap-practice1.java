@@ -1,5 +1,5 @@
 import java.util.PriorityQueue;
-
+//문제명: 더 맵게
 class Solution {
     public int solution(int[] scoville, int K) {
         int answer = 0;
